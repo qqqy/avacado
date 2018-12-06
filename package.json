@@ -1,0 +1,19 @@
+{
+  "name": "avacado-node-server",
+  "version": "1.0.0",
+  "description": "This is a practice server, created December 6th, 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqy/avacado.git"
+  },
+  "author": "Thrasher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqy/avacado/issues"
+  },
+  "homepage": "https://github.com/qqqy/avacado#readme"
+}
